@@ -19,11 +19,11 @@ void loop() {
 LDR=LDR/50; //divide o valor armazenado por 10
 Serial.println(LDR); //imprime o valor do ldr
 
-(LDR >= 400): ? (digitalWrite(RELE,HIGH)) : (digitalWrite(RELE,LOW));
+(LDR >= 500): ? (digitalWrite(RELE,HIGH)) : (digitalWrite(RELE,LOW));
 }
 
 
-//Se o valor lido (luminosidade) for maior ou igual a 400, liga o
+//Se o valor lido (luminosidade) for maior ou igual a 500, liga o
 //relé, senão desliga o relé
 //Este projeto foi pensado em um acionamendo de um relé para  
 //comandar um motor supostamente colocado para movimentação de 
