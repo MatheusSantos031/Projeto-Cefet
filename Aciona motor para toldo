@@ -28,6 +28,6 @@ Serial.println(LDR); //imprime o valor do ldr
 //Este projeto foi pensado em um acionamendo de um relé para  
 //comandar um motor supostamente colocado para movimentação de 
 // um toldo em uma porta de loja por exemplo, acionando o motor
-// quando o sol estiver batendo naquele local e abaixando o toldo. 
+// quando o sol estiver batendo naquele local e abaixando o toldo.
 
   
