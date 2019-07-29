@@ -3,7 +3,7 @@ int LDR; //variavel para a leitura do ldr
 int cont; //variavel utilizada para armazenar os valores lidos ldr
 int i; //variavel para contagem
 void setup() {
-  pinMode(RELE,OUTPUT); //DEFINA O PINO D8com saida
+  pinMode(8,OUTPUT); //DEFINA O PINO D8com saida
   Serial.begin(9600); //inicia a serial na velocidade 9600bps
 }
 void loop() {
