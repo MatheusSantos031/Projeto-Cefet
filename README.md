@@ -19,10 +19,10 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h1>&nbsp;</h1>
+<h1>&nbsp;</h1>
 <h1>Instala&ccedil;&atilde;o&nbsp;</h1>
-<p><img src="https://halckemy.s3.amazonaws.com/uploads/attachments/916786/circuito_protoboard_4zyj4FIR80.jpg" width="695" height="403" /></p>
-<p>&nbsp;</p>
-
+<p><img src="https://halckemy.s3.amazonaws.com/uploads/attachments/916786/circuito_protoboard_4zyj4FIR80.jpg" /></p>
+<p><img src="https://halckemy.s3.amazonaws.com/uploads/attachments/916790/circuito_esquematico_jzwVzAJFBz.jpg" alt="Circuito esquematico jzwvzajfbz" width="666" height="397" /></p>
 <h1>Arduino UNO</h1>
 <p><img src="https://raw.githubusercontent.com/Epaminondaslage/Arduino-Uno/master/Figuras/Arduino%20Uno%20R3.png" alt="" width="500" height="400" /></p>
 
