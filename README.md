@@ -15,11 +15,7 @@
 <p>&nbsp;</p>
 <h1>Contribuindo</h1>
 <p>Matheus Santos S. Oliveira.&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<h1>&nbsp;</h1>
-<h1>&nbsp;</h1>
+
 <h1>Arduino UNO</h1>
 <p><img src="https://raw.githubusercontent.com/Epaminondaslage/Arduino-Uno/master/Figuras/Arduino%20Uno%20R3.png" alt="" width="500" height="400" /></p>
 
