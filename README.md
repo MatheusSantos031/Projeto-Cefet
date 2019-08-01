@@ -31,3 +31,6 @@
 <h1>Resistor LDR&nbsp;</h1>
 <p><img src="https://potentiallabs.com/cart/image/cache/catalog/LDR-800x800.jpg" alt="" width="300" height="300
   " /></p>
+<h1>SG90 Micro servo-motor</h1>
+<p><img src="https://www.vidadesilicio.com.br/media/catalog/product/cache/2/thumbnail/450x450/9df78eab33525d08d6e5fb8d27136e95/8/5/850xn_3__1.jpg" alt="" width="300" height="300" /></p>
+<p>&nbsp;</p>
