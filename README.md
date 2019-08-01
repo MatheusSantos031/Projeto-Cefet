@@ -11,21 +11,22 @@
 <p>Resistor de 1k ohm</p>
 <p>SG90 Micro servo-motor</p>
 <h1>Instala&ccedil;&atilde;o</h1>
-<p><img src="https://halckemy.s3.amazonaws.com/uploads/attachments/916786/circuito_protoboard_4zyj4FIR80.jpg" alt="" width="800" height="464" /></p>
+
+
 <p>&nbsp;</p>
 <p><img src="https://halckemy.s3.amazonaws.com/uploads/attachments/916786/circuito_protoboard_4zyj4FIR80.jpg" alt="" width="800" height="464" /></p>
 <h1>Uso</h1>
 <p>Este projeto foi pensado em um acionamendo de um rel&eacute; para comandar um motor supostamente colocado para movimenta&ccedil;&atilde;o de&nbsp;um toldo em uma porta de loja por exemplo, acionando o motor&nbsp;quando o sol estiver batendo naquele local e abaixando o toldo.</p>
 <p>&nbsp;</p>
-<h1>Cr&eacute;ditos</h1>
+<h1>Contribuindo</h1>
 <p>Matheus Santos S. Oliveira.&nbsp;</p>
 <p><a href="https://create.arduino.cc/projecthub/Pjparreno/toldo-automatico-cbd569">https://create.arduino.cc/projecthub/Pjparreno/toldo-automatico-cbd569</a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
 <h1>Arduino UNO</h1>
 <p><img src="https://raw.githubusercontent.com/Epaminondaslage/Arduino-Uno/master/Figuras/Arduino%20Uno%20R3.png" alt="" width="961" height="749" /></p>
 
 <h1>Resistor LDR&nbsp;</h1>
-<p><em>Resistor LDR</em></p>
 <p><img src="https://potentiallabs.com/cart/image/cache/catalog/LDR-800x800.jpg" alt="" width="400" height="400" /></p>
