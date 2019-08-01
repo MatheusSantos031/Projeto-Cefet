@@ -1,6 +1,7 @@
 
 <h1>Toldo automatizado</h1>
 <h1>Descri&ccedil;&atilde;o</h1>
+<p>O projeto envolve a simula&ccedil;&atilde;o de um toldo automatizado usando um sensor de luz LDR e um servomotor. Quando a luz atinge o LDR, a entrada anal&oacute;gica l&ecirc; um valor pr&oacute;ximo a 1024, o servo motor &eacute; posicionado em 180 graus, implantando o toldo. Quando o LDR est&aacute; na sombra, os valores lidos pela entrada anal&oacute;gica s&atilde;o baixos, o servomotor &eacute; posicionado a 0 graus e o toldo &eacute; coletado.</p>
 <p>Toldo automatizado com o uso do arduino.</p>
 <p>&nbsp;Arduino &eacute; uma plataforma de prototipagem eletr&ocirc;nica de hardware livre e de placa &uacute;nica, projetada com um microcontrolador Atmel AVR com suporte de entrada/sa&iacute;da embutido, uma linguagem de programa&ccedil;&atilde;o padr&atilde;o, a qual tem origem em Wiring, e &eacute; essencialmente C/C++.</p>
 <p>&nbsp;</p>
