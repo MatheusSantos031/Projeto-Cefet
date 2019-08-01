@@ -12,6 +12,8 @@
 <p>SG90 Micro servo-motor</p>
 <h1>Instala&ccedil;&atilde;o</h1>
 <p><img src="https://halckemy.s3.amazonaws.com/uploads/attachments/916786/circuito_protoboard_4zyj4FIR80.jpg" alt="" width="800" height="464" /></p>
+<p>&nbsp;</p>
+<p><img src="https://halckemy.s3.amazonaws.com/uploads/attachments/916786/circuito_protoboard_4zyj4FIR80.jpg" alt="" width="800" height="464" /></p>
 <h1>Uso</h1>
 <p>Este projeto foi pensado em um acionamendo de um rel&eacute; para comandar um motor supostamente colocado para movimenta&ccedil;&atilde;o de&nbsp;um toldo em uma porta de loja por exemplo, acionando o motor&nbsp;quando o sol estiver batendo naquele local e abaixando o toldo.</p>
 <p>&nbsp;</p>
