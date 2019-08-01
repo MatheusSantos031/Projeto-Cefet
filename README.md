@@ -26,7 +26,7 @@
 <p>&nbsp;</p>
 
 <h1>Arduino UNO</h1>
-<p><img src="https://raw.githubusercontent.com/Epaminondaslage/Arduino-Uno/master/Figuras/Arduino%20Uno%20R3.png" alt="" width="800" height="690" /></p>
+<p><img src="https://raw.githubusercontent.com/Epaminondaslage/Arduino-Uno/master/Figuras/Arduino%20Uno%20R3.png" alt="" width="500" height="400" /></p>
 
 <h1>Resistor LDR&nbsp;</h1>
 <p><img src="https://potentiallabs.com/cart/image/cache/catalog/LDR-800x800.jpg" alt="" width="300" height="300
