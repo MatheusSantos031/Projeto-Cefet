@@ -24,6 +24,7 @@
 <p>Este projeto foi pensado em um acionamendo de um rel&eacute; para comandar um motor supostamente colocado para movimenta&ccedil;&atilde;o de&nbsp;um toldo em uma porta de loja por exemplo, acionando o motor&nbsp;quando o sol estiver batendo naquele local e abaixando o toldo.</p>
 <h1>Instala&ccedil;&atilde;o</h1>
 <p><img src="https://raw.githubusercontent.com/MatheusSantos031/Projeto-Cefet/master/Imagens/Montagem.png" width="615" height="357" /></p>
+<p><img src="https://raw.githubusercontent.com/MatheusSantos031/Projeto-Cefet/master/Imagens/Instala%C3%A7%C3%A3o.png" width="671" height="400" /></p>
 
 <h1>Contribuindo</h1>
 <p>Matheus Santos S. Oliveira.&nbsp;</p>
