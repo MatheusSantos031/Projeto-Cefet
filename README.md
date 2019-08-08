@@ -11,11 +11,6 @@
 <p>Resistor LDR</p>
 <p>Resistor de 1k ohm</p>
 <p>SG90 Micro servo-motor</p>
-<h1>Uso</h1>
-<p>Este projeto foi pensado em um acionamendo de um rel&eacute; para comandar um motor supostamente colocado para movimenta&ccedil;&atilde;o de&nbsp;um toldo em uma porta de loja por exemplo, acionando o motor&nbsp;quando o sol estiver batendo naquele local e abaixando o toldo.</p>
-<h1>Contribuindo</h1>
-<p>Matheus Santos S. Oliveira.&nbsp;</p>
-
 <h1>Arduino UNO</h1>
 <p><img src="https://raw.githubusercontent.com/Epaminondaslage/Arduino-Uno/master/Figuras/Arduino%20Uno%20R3.png" alt="" width="500" height="400" /></p>
 
@@ -25,3 +20,7 @@
 <h1>SG90 Micro servo-motor</h1>
 <p><img src="https://www.vidadesilicio.com.br/media/catalog/product/cache/2/thumbnail/450x450/9df78eab33525d08d6e5fb8d27136e95/8/5/850xn_3__1.jpg" alt="" width="300" height="300" /></p>
 <p>&nbsp;</p>
+<h1>Uso</h1>
+<p>Este projeto foi pensado em um acionamendo de um rel&eacute; para comandar um motor supostamente colocado para movimenta&ccedil;&atilde;o de&nbsp;um toldo em uma porta de loja por exemplo, acionando o motor&nbsp;quando o sol estiver batendo naquele local e abaixando o toldo.</p>
+<h1>Contribuindo</h1>
+<p>Matheus Santos S. Oliveira.&nbsp;</p>
