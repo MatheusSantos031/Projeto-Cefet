@@ -1,5 +1,5 @@
 /*
-*Projeto de automação de um toldo// teste
+*Projeto de automação de um toldo
 * 
 * 
 *
